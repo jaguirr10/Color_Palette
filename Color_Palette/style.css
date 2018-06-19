@@ -1,0 +1,63 @@
+ /* Juan Aguirre */
+ 
+ 
+ body 
+ {
+	 
+	 background: #093028;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #237A57, #093028);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #237A57, #093028); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+ 
+ 
+li {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  text-indent: 1.5em;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 0.45);
+  font-weight: bold;
+}
+/* Color palette base-color */
+/*  50 */
+li:nth-child(1) {
+  background-color: #e0f4f3;
+}
+/* 100 */
+li:nth-child(2) {
+  background-color: #b0e3df;
+}
+/* 200 */
+li:nth-child(3) {
+  background-color: #80d2cc;
+}
+/* 300 */
+li:nth-child(4) {
+  background-color: #4dbfb8;
+}
+/* 400 */
+li:nth-child(5) {
+  background-color: #26b2a8;
+}
+/* 500 */
+li:nth-child(6) {
+  background-color: #00A499;
+}
+/* 600 */
+li:nth-child(7) {
+  background-color: #00958b;
+}
+/* 700 */
+li:nth-child(8) {
+  background-color: #00837a;
+}
+/* 800 */
+li:nth-child(9) {
+  background-color: #00736b;
+}
+/* 900 */
+li:nth-child(10) {
+  background-color: #00544e;
+}
